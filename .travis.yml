@@ -1,0 +1,19 @@
+language: rust
+
+rust:
+  - stable
+
+os:
+  - linux
+
+env:
+  global:
+    - RUST_BACKTRACE=1
+
+branches:
+  only:
+    - generator
+
+script:
+  - cargo install --force cargo-play
+  - cargo play generator.rs
