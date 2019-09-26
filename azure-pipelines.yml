@@ -1,0 +1,31 @@
+pool:
+  vmImage: 'ubuntu-latest'
+
+trigger:
+  - generator
+
+schedules:
+  - cron: "0 12 * * 5"
+    displayName: Weekly Friday build
+    branches:
+      include:
+        - master
+    always: true
+
+steps:
+  - script: cargo install cargo-play
+    displayName: Install cargo-play
+
+  - script: cargo play generator.rs
+    displayName: Play generator.rs
+
+# Resources
+# - https://readrust.net/devops-and-deployment/
+# - https://nbsoftsolutions.com/blog/azure-pipelines-for-rust-projects
+# - https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops#use-a-microsoft-hosted-agent
+# - https://github.com/Microsoft/azure-pipelines-image-generation/blob/master/images/linux/Ubuntu1604-README.md
+
+
+
+
+
