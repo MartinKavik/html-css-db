@@ -1,8 +1,38 @@
 [
   {
     "name": {
-      "original": "inset-block",
-      "pascal_case": "InsetBlock"
+      "original": "--*",
+      "pascal_case": ""
+    }
+  },
+  {
+    "name": {
+      "original": "-moz-appearance",
+      "pascal_case": "MozAppearance"
+    }
+  },
+  {
+    "name": {
+      "original": "-moz-binding",
+      "pascal_case": "MozBinding"
+    }
+  },
+  {
+    "name": {
+      "original": "-moz-border-bottom-colors",
+      "pascal_case": "MozBorderBottomColors"
+    }
+  },
+  {
+    "name": {
+      "original": "-moz-border-left-colors",
+      "pascal_case": "MozBorderLeftColors"
+    }
+  },
+  {
+    "name": {
+      "original": "-moz-border-right-colors",
+      "pascal_case": "MozBorderRightColors"
     }
   },
   {
@@ -13,734 +43,14 @@
   },
   {
     "name": {
-      "original": "border-inline-start-style",
-      "pascal_case": "BorderInlineStartStyle"
+      "original": "-moz-context-properties",
+      "pascal_case": "MozContextProperties"
     }
   },
   {
     "name": {
-      "original": "-ms-scrollbar-shadow-color",
-      "pascal_case": "MsScrollbarShadowColor"
-    }
-  },
-  {
-    "name": {
-      "original": "border-right-color",
-      "pascal_case": "BorderRightColor"
-    }
-  },
-  {
-    "name": {
-      "original": "word-break",
-      "pascal_case": "WordBreak"
-    }
-  },
-  {
-    "name": {
-      "original": "background-position-y",
-      "pascal_case": "BackgroundPositionY"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-auto-flow",
-      "pascal_case": "GridAutoFlow"
-    }
-  },
-  {
-    "name": {
-      "original": "opacity",
-      "pascal_case": "Opacity"
-    }
-  },
-  {
-    "name": {
-      "original": "ruby-merge",
-      "pascal_case": "RubyMerge"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-top",
-      "pascal_case": "ScrollMarginTop"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-snap-points-y",
-      "pascal_case": "MsScrollSnapPointsY"
-    }
-  },
-  {
-    "name": {
-      "original": "font-size-adjust",
-      "pascal_case": "FontSizeAdjust"
-    }
-  },
-  {
-    "name": {
-      "original": "line-height",
-      "pascal_case": "LineHeight"
-    }
-  },
-  {
-    "name": {
-      "original": "border-image-outset",
-      "pascal_case": "BorderImageOutset"
-    }
-  },
-  {
-    "name": {
-      "original": "box-direction",
-      "pascal_case": "BoxDirection"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-repeat-y",
-      "pascal_case": "WebkitMaskRepeatY"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-wrap-flow",
-      "pascal_case": "MsWrapFlow"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-template",
-      "pascal_case": "GridTemplate"
-    }
-  },
-  {
-    "name": {
-      "original": "flex-wrap",
-      "pascal_case": "FlexWrap"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-position",
-      "pascal_case": "MaskPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-composite",
-      "pascal_case": "WebkitMaskComposite"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-width",
-      "pascal_case": "BorderInlineWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "counter-reset",
-      "pascal_case": "CounterReset"
-    }
-  },
-  {
-    "name": {
-      "original": "border-bottom-right-radius",
-      "pascal_case": "BorderBottomRightRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-inline-start",
-      "pascal_case": "ScrollPaddingInlineStart"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-block-start",
-      "pascal_case": "ScrollMarginBlockStart"
-    }
-  },
-  {
-    "name": {
-      "original": "text-rendering",
-      "pascal_case": "TextRendering"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-size",
-      "pascal_case": "WebkitMaskSize"
-    }
-  },
-  {
-    "name": {
-      "original": "animation-timing-function",
-      "pascal_case": "AnimationTimingFunction"
-    }
-  },
-  {
-    "name": {
-      "original": "align-items",
-      "pascal_case": "AlignItems"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-type-x",
-      "pascal_case": "ScrollSnapTypeX"
-    }
-  },
-  {
-    "name": {
-      "original": "--*",
-      "pascal_case": ""
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scrollbar-track-color",
-      "pascal_case": "MsScrollbarTrackColor"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-hyphenate-limit-lines",
-      "pascal_case": "MsHyphenateLimitLines"
-    }
-  },
-  {
-    "name": {
-      "original": "visibility",
-      "pascal_case": "Visibility"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variant-east-asian",
-      "pascal_case": "FontVariantEastAsian"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variation-settings",
-      "pascal_case": "FontVariationSettings"
-    }
-  },
-  {
-    "name": {
-      "original": "border-left",
-      "pascal_case": "BorderLeft"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-start-color",
-      "pascal_case": "BorderInlineStartColor"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-block",
-      "pascal_case": "ScrollMarginBlock"
-    }
-  },
-  {
-    "name": {
-      "original": "text-combine-upright",
-      "pascal_case": "TextCombineUpright"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-points-x",
-      "pascal_case": "ScrollSnapPointsX"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-behavior",
-      "pascal_case": "ScrollBehavior"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-block",
-      "pascal_case": "PaddingBlock"
-    }
-  },
-  {
-    "name": {
-      "original": "flex-basis",
-      "pascal_case": "FlexBasis"
-    }
-  },
-  {
-    "name": {
-      "original": "transition",
-      "pascal_case": "Transition"
-    }
-  },
-  {
-    "name": {
-      "original": "border-top",
-      "pascal_case": "BorderTop"
-    }
-  },
-  {
-    "name": {
-      "original": "outline",
-      "pascal_case": "Outline"
-    }
-  },
-  {
-    "name": {
-      "original": "overflow-y",
-      "pascal_case": "OverflowY"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-bottom",
-      "pascal_case": "ScrollMarginBottom"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scrollbar-darkshadow-color",
-      "pascal_case": "MsScrollbarDarkshadowColor"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-end",
-      "pascal_case": "BorderBlockEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "shape-image-threshold",
-      "pascal_case": "ShapeImageThreshold"
-    }
-  },
-  {
-    "name": {
-      "original": "box-shadow",
-      "pascal_case": "BoxShadow"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-translation",
-      "pascal_case": "MsScrollTranslation"
-    }
-  },
-  {
-    "name": {
-      "original": "font-synthesis",
-      "pascal_case": "FontSynthesis"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variant-caps",
-      "pascal_case": "FontVariantCaps"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-block-end",
-      "pascal_case": "MarginBlockEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "perspective-origin",
-      "pascal_case": "PerspectiveOrigin"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-end-color",
-      "pascal_case": "BorderInlineEndColor"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-template-areas",
-      "pascal_case": "GridTemplateAreas"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-right",
-      "pascal_case": "ScrollMarginRight"
-    }
-  },
-  {
-    "name": {
-      "original": "transition-property",
-      "pascal_case": "TransitionProperty"
-    }
-  },
-  {
-    "name": {
-      "original": "text-decoration-skip",
-      "pascal_case": "TextDecorationSkip"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variant-numeric",
-      "pascal_case": "FontVariantNumeric"
-    }
-  },
-  {
-    "name": {
-      "original": "animation-iteration-count",
-      "pascal_case": "AnimationIterationCount"
-    }
-  },
-  {
-    "name": {
-      "original": "image-resolution",
-      "pascal_case": "ImageResolution"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-border-slice",
-      "pascal_case": "MaskBorderSlice"
-    }
-  },
-  {
-    "name": {
-      "original": "width",
-      "pascal_case": "Width"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-size",
-      "pascal_case": "MaskSize"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-flow-from",
-      "pascal_case": "MsFlowFrom"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-inline",
-      "pascal_case": "MarginInline"
-    }
-  },
-  {
-    "name": {
-      "original": "justify-self",
-      "pascal_case": "JustifySelf"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-border-width",
-      "pascal_case": "MaskBorderWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "filter",
-      "pascal_case": "Filter"
-    }
-  },
-  {
-    "name": {
-      "original": "column-count",
-      "pascal_case": "ColumnCount"
-    }
-  },
-  {
-    "name": {
-      "original": "align-content",
-      "pascal_case": "AlignContent"
-    }
-  },
-  {
-    "name": {
-      "original": "justify-content",
-      "pascal_case": "JustifyContent"
-    }
-  },
-  {
-    "name": {
-      "original": "order",
-      "pascal_case": "Order"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scrollbar-3dlight-color",
-      "pascal_case": "MsScrollbar3DlightColor"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-content-zoom-limit",
-      "pascal_case": "MsContentZoomLimit"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-block-end",
-      "pascal_case": "ScrollPaddingBlockEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "clear",
-      "pascal_case": "Clear"
-    }
-  },
-  {
-    "name": {
-      "original": "hanging-punctuation",
-      "pascal_case": "HangingPunctuation"
-    }
-  },
-  {
-    "name": {
-      "original": "all",
-      "pascal_case": "All"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-attachment",
-      "pascal_case": "WebkitMaskAttachment"
-    }
-  },
-  {
-    "name": {
-      "original": "quotes",
-      "pascal_case": "Quotes"
-    }
-  },
-  {
-    "name": {
-      "original": "row-gap",
-      "pascal_case": "RowGap"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-block-end",
-      "pascal_case": "PaddingBlockEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "text-transform",
-      "pascal_case": "TextTransform"
-    }
-  },
-  {
-    "name": {
-      "original": "box-pack",
-      "pascal_case": "BoxPack"
-    }
-  },
-  {
-    "name": {
-      "original": "user-select",
-      "pascal_case": "UserSelect"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-end-width",
-      "pascal_case": "BorderInlineEndWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "background-position",
-      "pascal_case": "BackgroundPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "border-bottom",
-      "pascal_case": "BorderBottom"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-start",
-      "pascal_case": "BorderInlineStart"
-    }
-  },
-  {
-    "name": {
-      "original": "white-space",
-      "pascal_case": "WhiteSpace"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-repeat-x",
-      "pascal_case": "WebkitMaskRepeatX"
-    }
-  },
-  {
-    "name": {
-      "original": "border-width",
-      "pascal_case": "BorderWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline",
-      "pascal_case": "BorderInline"
-    }
-  },
-  {
-    "name": {
-      "original": "align-self",
-      "pascal_case": "AlignSelf"
-    }
-  },
-  {
-    "name": {
-      "original": "border-start-end-radius",
-      "pascal_case": "BorderStartEndRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-gap",
-      "pascal_case": "GridGap"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-window-dragging",
-      "pascal_case": "MozWindowDragging"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-outline-radius-bottomleft",
-      "pascal_case": "MozOutlineRadiusBottomleft"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-composite",
-      "pascal_case": "MaskComposite"
-    }
-  },
-  {
-    "name": {
-      "original": "offset-rotate",
-      "pascal_case": "OffsetRotate"
-    }
-  },
-  {
-    "name": {
-      "original": "text-decoration",
-      "pascal_case": "TextDecoration"
-    }
-  },
-  {
-    "name": {
-      "original": "list-style-position",
-      "pascal_case": "ListStylePosition"
-    }
-  },
-  {
-    "name": {
-      "original": "text-emphasis",
-      "pascal_case": "TextEmphasis"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-block-start",
-      "pascal_case": "MarginBlockStart"
-    }
-  },
-  {
-    "name": {
-      "original": "pointer-events",
-      "pascal_case": "PointerEvents"
-    }
-  },
-  {
-    "name": {
-      "original": "writing-mode",
-      "pascal_case": "WritingMode"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding",
-      "pascal_case": "ScrollPadding"
-    }
-  },
-  {
-    "name": {
-      "original": "text-overflow",
-      "pascal_case": "TextOverflow"
-    }
-  },
-  {
-    "name": {
-      "original": "float",
-      "pascal_case": "Float"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-row",
-      "pascal_case": "GridRow"
-    }
-  },
-  {
-    "name": {
-      "original": "border-color",
-      "pascal_case": "BorderColor"
-    }
-  },
-  {
-    "name": {
-      "original": "font-feature-settings",
-      "pascal_case": "FontFeatureSettings"
-    }
-  },
-  {
-    "name": {
-      "original": "inset-inline-end",
-      "pascal_case": "InsetInlineEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-row-gap",
-      "pascal_case": "GridRowGap"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-row-end",
-      "pascal_case": "GridRowEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "isolation",
-      "pascal_case": "Isolation"
+      "original": "-moz-float-edge",
+      "pascal_case": "MozFloatEdge"
     }
   },
   {
@@ -751,206 +61,32 @@
   },
   {
     "name": {
-      "original": "-ms-scroll-snap-points-x",
-      "pascal_case": "MsScrollSnapPointsX"
+      "original": "-moz-image-region",
+      "pascal_case": "MozImageRegion"
     }
   },
   {
     "name": {
-      "original": "font-size",
-      "pascal_case": "FontSize"
+      "original": "-moz-orient",
+      "pascal_case": "MozOrient"
     }
   },
   {
     "name": {
-      "original": "contain",
-      "pascal_case": "Contain"
+      "original": "-moz-outline-radius",
+      "pascal_case": "MozOutlineRadius"
     }
   },
   {
     "name": {
-      "original": "box-align",
-      "pascal_case": "BoxAlign"
+      "original": "-moz-outline-radius-bottomleft",
+      "pascal_case": "MozOutlineRadiusBottomleft"
     }
   },
   {
     "name": {
-      "original": "border-top-color",
-      "pascal_case": "BorderTopColor"
-    }
-  },
-  {
-    "name": {
-      "original": "background-size",
-      "pascal_case": "BackgroundSize"
-    }
-  },
-  {
-    "name": {
-      "original": "inset-inline",
-      "pascal_case": "InsetInline"
-    }
-  },
-  {
-    "name": {
-      "original": "background-image",
-      "pascal_case": "BackgroundImage"
-    }
-  },
-  {
-    "name": {
-      "original": "min-width",
-      "pascal_case": "MinWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-left",
-      "pascal_case": "ScrollPaddingLeft"
-    }
-  },
-  {
-    "name": {
-      "original": "letter-spacing",
-      "pascal_case": "LetterSpacing"
-    }
-  },
-  {
-    "name": {
-      "original": "border-spacing",
-      "pascal_case": "BorderSpacing"
-    }
-  },
-  {
-    "name": {
-      "original": "overflow-x",
-      "pascal_case": "OverflowX"
-    }
-  },
-  {
-    "name": {
-      "original": "widows",
-      "pascal_case": "Widows"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-inline",
-      "pascal_case": "PaddingInline"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-end-style",
-      "pascal_case": "BorderBlockEndStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "flex",
-      "pascal_case": "Flex"
-    }
-  },
-  {
-    "name": {
-      "original": "text-align",
-      "pascal_case": "TextAlign"
-    }
-  },
-  {
-    "name": {
-      "original": "unicode-bidi",
-      "pascal_case": "UnicodeBidi"
-    }
-  },
-  {
-    "name": {
-      "original": "text-decoration-skip-ink",
-      "pascal_case": "TextDecorationSkipInk"
-    }
-  },
-  {
-    "name": {
-      "original": "text-indent",
-      "pascal_case": "TextIndent"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-hyphenate-limit-chars",
-      "pascal_case": "MsHyphenateLimitChars"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-flow-into",
-      "pascal_case": "MsFlowInto"
-    }
-  },
-  {
-    "name": {
-      "original": "border-right-width",
-      "pascal_case": "BorderRightWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "transform-box",
-      "pascal_case": "TransformBox"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variant-position",
-      "pascal_case": "FontVariantPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-auto-columns",
-      "pascal_case": "GridAutoColumns"
-    }
-  },
-  {
-    "name": {
-      "original": "break-inside",
-      "pascal_case": "BreakInside"
-    }
-  },
-  {
-    "name": {
-      "original": "azimuth",
-      "pascal_case": "Azimuth"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-inline-start",
-      "pascal_case": "MarginInlineStart"
-    }
-  },
-  {
-    "name": {
-      "original": "scrollbar-width",
-      "pascal_case": "ScrollbarWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "resize",
-      "pascal_case": "Resize"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-inline-start",
-      "pascal_case": "ScrollMarginInlineStart"
-    }
-  },
-  {
-    "name": {
-      "original": "outline-offset",
-      "pascal_case": "OutlineOffset"
+      "original": "-moz-outline-radius-bottomright",
+      "pascal_case": "MozOutlineRadiusBottomright"
     }
   },
   {
@@ -961,86 +97,14 @@
   },
   {
     "name": {
-      "original": "transition-delay",
-      "pascal_case": "TransitionDelay"
+      "original": "-moz-outline-radius-topright",
+      "pascal_case": "MozOutlineRadiusTopright"
     }
   },
   {
     "name": {
-      "original": "place-self",
-      "pascal_case": "PlaceSelf"
-    }
-  },
-  {
-    "name": {
-      "original": "overflow",
-      "pascal_case": "Overflow"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-limit-x-max",
-      "pascal_case": "MsScrollLimitXMax"
-    }
-  },
-  {
-    "name": {
-      "original": "zoom",
-      "pascal_case": "Zoom"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-end-style",
-      "pascal_case": "BorderInlineEndStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-style",
-      "pascal_case": "BorderInlineStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "place-items",
-      "pascal_case": "PlaceItems"
-    }
-  },
-  {
-    "name": {
-      "original": "block-overflow",
-      "pascal_case": "BlockOverflow"
-    }
-  },
-  {
-    "name": {
-      "original": "overflow-wrap",
-      "pascal_case": "OverflowWrap"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-block-start",
-      "pascal_case": "PaddingBlockStart"
-    }
-  },
-  {
-    "name": {
-      "original": "caret-color",
-      "pascal_case": "CaretColor"
-    }
-  },
-  {
-    "name": {
-      "original": "max-lines",
-      "pascal_case": "MaxLines"
-    }
-  },
-  {
-    "name": {
-      "original": "padding",
-      "pascal_case": "Padding"
+      "original": "-moz-stack-sizing",
+      "pascal_case": "MozStackSizing"
     }
   },
   {
@@ -1051,56 +115,38 @@
   },
   {
     "name": {
-      "original": "-webkit-border-before-style",
-      "pascal_case": "WebkitBorderBeforeStyle"
+      "original": "-moz-user-focus",
+      "pascal_case": "MozUserFocus"
     }
   },
   {
     "name": {
-      "original": "grid-template-columns",
-      "pascal_case": "GridTemplateColumns"
+      "original": "-moz-user-input",
+      "pascal_case": "MozUserInput"
     }
   },
   {
     "name": {
-      "original": "offset",
-      "pascal_case": "Offset"
+      "original": "-moz-user-modify",
+      "pascal_case": "MozUserModify"
     }
   },
   {
     "name": {
-      "original": "word-wrap",
-      "pascal_case": "WordWrap"
+      "original": "-moz-window-dragging",
+      "pascal_case": "MozWindowDragging"
     }
   },
   {
     "name": {
-      "original": "border-bottom-color",
-      "pascal_case": "BorderBottomColor"
+      "original": "-moz-window-shadow",
+      "pascal_case": "MozWindowShadow"
     }
   },
   {
     "name": {
-      "original": "min-height",
-      "pascal_case": "MinHeight"
-    }
-  },
-  {
-    "name": {
-      "original": "overflow-inline",
-      "pascal_case": "OverflowInline"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-touch-callout",
-      "pascal_case": "WebkitTouchCallout"
-    }
-  },
-  {
-    "name": {
-      "original": "font-stretch",
-      "pascal_case": "FontStretch"
+      "original": "-ms-accelerator",
+      "pascal_case": "MsAccelerator"
     }
   },
   {
@@ -1117,512 +163,8 @@
   },
   {
     "name": {
-      "original": "mask-type",
-      "pascal_case": "MaskType"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-text-autospace",
-      "pascal_case": "MsTextAutospace"
-    }
-  },
-  {
-    "name": {
-      "original": "list-style-image",
-      "pascal_case": "ListStyleImage"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scrollbar-base-color",
-      "pascal_case": "MsScrollbarBaseColor"
-    }
-  },
-  {
-    "name": {
-      "original": "flex-direction",
-      "pascal_case": "FlexDirection"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-origin",
-      "pascal_case": "MaskOrigin"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scrollbar-face-color",
-      "pascal_case": "MsScrollbarFaceColor"
-    }
-  },
-  {
-    "name": {
-      "original": "animation-duration",
-      "pascal_case": "AnimationDuration"
-    }
-  },
-  {
-    "name": {
-      "original": "flex-flow",
-      "pascal_case": "FlexFlow"
-    }
-  },
-  {
-    "name": {
-      "original": "max-height",
-      "pascal_case": "MaxHeight"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-limit-x-min",
-      "pascal_case": "MsScrollLimitXMin"
-    }
-  },
-  {
-    "name": {
-      "original": "column-fill",
-      "pascal_case": "ColumnFill"
-    }
-  },
-  {
-    "name": {
-      "original": "direction",
-      "pascal_case": "Direction"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-repeat",
-      "pascal_case": "MaskRepeat"
-    }
-  },
-  {
-    "name": {
-      "original": "text-decoration-color",
-      "pascal_case": "TextDecorationColor"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-text-stroke-color",
-      "pascal_case": "WebkitTextStrokeColor"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-style",
-      "pascal_case": "BorderBlockStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-row-start",
-      "pascal_case": "GridRowStart"
-    }
-  },
-  {
-    "name": {
-      "original": "background-attachment",
-      "pascal_case": "BackgroundAttachment"
-    }
-  },
-  {
-    "name": {
-      "original": "place-content",
-      "pascal_case": "PlaceContent"
-    }
-  },
-  {
-    "name": {
-      "original": "right",
-      "pascal_case": "Right"
-    }
-  },
-  {
-    "name": {
-      "original": "font-family",
-      "pascal_case": "FontFamily"
-    }
-  },
-  {
-    "name": {
-      "original": "transform-origin",
-      "pascal_case": "TransformOrigin"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-text-stroke-width",
-      "pascal_case": "WebkitTextStrokeWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "object-position",
-      "pascal_case": "ObjectPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-column-gap",
-      "pascal_case": "GridColumnGap"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-content-zoom-snap-type",
-      "pascal_case": "MsContentZoomSnapType"
-    }
-  },
-  {
-    "name": {
-      "original": "cursor",
-      "pascal_case": "Cursor"
-    }
-  },
-  {
-    "name": {
-      "original": "offset-position",
-      "pascal_case": "OffsetPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "text-decoration-style",
-      "pascal_case": "TextDecorationStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "word-spacing",
-      "pascal_case": "WordSpacing"
-    }
-  },
-  {
-    "name": {
-      "original": "block-size",
-      "pascal_case": "BlockSize"
-    }
-  },
-  {
-    "name": {
-      "original": "border-image-slice",
-      "pascal_case": "BorderImageSlice"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-origin",
-      "pascal_case": "WebkitMaskOrigin"
-    }
-  },
-  {
-    "name": {
-      "original": "box-decoration-break",
-      "pascal_case": "BoxDecorationBreak"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-border-mode",
-      "pascal_case": "MaskBorderMode"
-    }
-  },
-  {
-    "name": {
-      "original": "box-lines",
-      "pascal_case": "BoxLines"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-border-before-width",
-      "pascal_case": "WebkitBorderBeforeWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "line-break",
-      "pascal_case": "LineBreak"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-binding",
-      "pascal_case": "MozBinding"
-    }
-  },
-  {
-    "name": {
-      "original": "border-top-style",
-      "pascal_case": "BorderTopStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-end-color",
-      "pascal_case": "BorderBlockEndColor"
-    }
-  },
-  {
-    "name": {
-      "original": "min-block-size",
-      "pascal_case": "MinBlockSize"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-line-clamp",
-      "pascal_case": "WebkitLineClamp"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-inline-end",
-      "pascal_case": "PaddingInlineEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "background-repeat",
-      "pascal_case": "BackgroundRepeat"
-    }
-  },
-  {
-    "name": {
-      "original": "border-style",
-      "pascal_case": "BorderStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-chaining",
-      "pascal_case": "MsScrollChaining"
-    }
-  },
-  {
-    "name": {
-      "original": "transform-style",
-      "pascal_case": "TransformStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "text-decoration-line",
-      "pascal_case": "TextDecorationLine"
-    }
-  },
-  {
-    "name": {
-      "original": "touch-action",
-      "pascal_case": "TouchAction"
-    }
-  },
-  {
-    "name": {
-      "original": "mix-blend-mode",
-      "pascal_case": "MixBlendMode"
-    }
-  },
-  {
-    "name": {
-      "original": "border-start-start-radius",
-      "pascal_case": "BorderStartStartRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "content",
-      "pascal_case": "Content"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-snap-y",
-      "pascal_case": "MsScrollSnapY"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block",
-      "pascal_case": "BorderBlock"
-    }
-  },
-  {
-    "name": {
-      "original": "text-underline-position",
-      "pascal_case": "TextUnderlinePosition"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-position-x",
-      "pascal_case": "WebkitMaskPositionX"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-right",
-      "pascal_case": "MarginRight"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-inline-end",
-      "pascal_case": "ScrollMarginInlineEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-stop",
-      "pascal_case": "ScrollSnapStop"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-snap-x",
-      "pascal_case": "MsScrollSnapX"
-    }
-  },
-  {
-    "name": {
-      "original": "overscroll-behavior-x",
-      "pascal_case": "OverscrollBehaviorX"
-    }
-  },
-  {
-    "name": {
-      "original": "transition-timing-function",
-      "pascal_case": "TransitionTimingFunction"
-    }
-  },
-  {
-    "name": {
-      "original": "shape-margin",
-      "pascal_case": "ShapeMargin"
-    }
-  },
-  {
-    "name": {
-      "original": "initial-letter-align",
-      "pascal_case": "InitialLetterAlign"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-limit-y-max",
-      "pascal_case": "MsScrollLimitYMax"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-inline-start",
-      "pascal_case": "PaddingInlineStart"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-column-start",
-      "pascal_case": "GridColumnStart"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin",
-      "pascal_case": "ScrollMargin"
-    }
-  },
-  {
-    "name": {
-      "original": "list-style-type",
-      "pascal_case": "ListStyleType"
-    }
-  },
-  {
-    "name": {
-      "original": "inset-block-start",
-      "pascal_case": "InsetBlockStart"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-bottom",
-      "pascal_case": "MarginBottom"
-    }
-  },
-  {
-    "name": {
-      "original": "outline-color",
-      "pascal_case": "OutlineColor"
-    }
-  },
-  {
-    "name": {
-      "original": "break-after",
-      "pascal_case": "BreakAfter"
-    }
-  },
-  {
-    "name": {
-      "original": "vertical-align",
-      "pascal_case": "VerticalAlign"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-start",
-      "pascal_case": "BorderBlockStart"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-inline",
-      "pascal_case": "ScrollPaddingInline"
-    }
-  },
-  {
-    "name": {
-      "original": "border-end-end-radius",
-      "pascal_case": "BorderEndEndRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-image-region",
-      "pascal_case": "MozImageRegion"
-    }
-  },
-  {
-    "name": {
-      "original": "background-position-x",
-      "pascal_case": "BackgroundPositionX"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-user-modify",
-      "pascal_case": "MozUserModify"
-    }
-  },
-  {
-    "name": {
-      "original": "gap",
-      "pascal_case": "Gap"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-window-shadow",
-      "pascal_case": "MozWindowShadow"
-    }
-  },
-  {
-    "name": {
-      "original": "color",
-      "pascal_case": "Color"
+      "original": "-ms-content-zoom-limit",
+      "pascal_case": "MsContentZoomLimit"
     }
   },
   {
@@ -1633,1028 +175,8 @@
   },
   {
     "name": {
-      "original": "tab-size",
-      "pascal_case": "TabSize"
-    }
-  },
-  {
-    "name": {
-      "original": "animation-direction",
-      "pascal_case": "AnimationDirection"
-    }
-  },
-  {
-    "name": {
-      "original": "animation-delay",
-      "pascal_case": "AnimationDelay"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-user-focus",
-      "pascal_case": "MozUserFocus"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-touch-select",
-      "pascal_case": "MsTouchSelect"
-    }
-  },
-  {
-    "name": {
-      "original": "border",
-      "pascal_case": "Border"
-    }
-  },
-  {
-    "name": {
-      "original": "border-left-width",
-      "pascal_case": "BorderLeftWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-column-end",
-      "pascal_case": "GridColumnEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "border-bottom-width",
-      "pascal_case": "BorderBottomWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "offset-anchor",
-      "pascal_case": "OffsetAnchor"
-    }
-  },
-  {
-    "name": {
-      "original": "line-height-step",
-      "pascal_case": "LineHeightStep"
-    }
-  },
-  {
-    "name": {
-      "original": "offset-distance",
-      "pascal_case": "OffsetDistance"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-box-reflect",
-      "pascal_case": "WebkitBoxReflect"
-    }
-  },
-  {
-    "name": {
-      "original": "page-break-inside",
-      "pascal_case": "PageBreakInside"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-border-bottom-colors",
-      "pascal_case": "MozBorderBottomColors"
-    }
-  },
-  {
-    "name": {
-      "original": "border-top-width",
-      "pascal_case": "BorderTopWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-inline-end",
-      "pascal_case": "MarginInlineEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-rails",
-      "pascal_case": "MsScrollRails"
-    }
-  },
-  {
-    "name": {
-      "original": "z-index",
-      "pascal_case": "ZIndex"
-    }
-  },
-  {
-    "name": {
-      "original": "box-sizing",
-      "pascal_case": "BoxSizing"
-    }
-  },
-  {
-    "name": {
-      "original": "page-break-after",
-      "pascal_case": "PageBreakAfter"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-user-input",
-      "pascal_case": "MozUserInput"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-coordinate",
-      "pascal_case": "ScrollSnapCoordinate"
-    }
-  },
-  {
-    "name": {
-      "original": "border-image-width",
-      "pascal_case": "BorderImageWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "border-image",
-      "pascal_case": "BorderImage"
-    }
-  },
-  {
-    "name": {
-      "original": "text-shadow",
-      "pascal_case": "TextShadow"
-    }
-  },
-  {
-    "name": {
-      "original": "border-radius",
-      "pascal_case": "BorderRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "transition-duration",
-      "pascal_case": "TransitionDuration"
-    }
-  },
-  {
-    "name": {
-      "original": "column-rule-style",
-      "pascal_case": "ColumnRuleStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "left",
-      "pascal_case": "Left"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-outline-radius-bottomright",
-      "pascal_case": "MozOutlineRadiusBottomright"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-image",
-      "pascal_case": "WebkitMaskImage"
-    }
-  },
-  {
-    "name": {
-      "original": "max-width",
-      "pascal_case": "MaxWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "ruby-align",
-      "pascal_case": "RubyAlign"
-    }
-  },
-  {
-    "name": {
-      "original": "margin",
-      "pascal_case": "Margin"
-    }
-  },
-  {
-    "name": {
-      "original": "border-end-start-radius",
-      "pascal_case": "BorderEndStartRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "max-block-size",
-      "pascal_case": "MaxBlockSize"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-start-width",
-      "pascal_case": "BorderInlineStartWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "inset",
-      "pascal_case": "Inset"
-    }
-  },
-  {
-    "name": {
-      "original": "overflow-block",
-      "pascal_case": "OverflowBlock"
-    }
-  },
-  {
-    "name": {
-      "original": "offset-path",
-      "pascal_case": "OffsetPath"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-orient",
-      "pascal_case": "MozOrient"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-image",
-      "pascal_case": "MaskImage"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-type",
-      "pascal_case": "ScrollSnapType"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-wrap-margin",
-      "pascal_case": "MsWrapMargin"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-template-rows",
-      "pascal_case": "GridTemplateRows"
-    }
-  },
-  {
-    "name": {
-      "original": "border-bottom-left-radius",
-      "pascal_case": "BorderBottomLeftRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-start-width",
-      "pascal_case": "BorderBlockStartWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-width",
-      "pascal_case": "BorderBlockWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "break-before",
-      "pascal_case": "BreakBefore"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-overflow-style",
-      "pascal_case": "MsOverflowStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-top",
-      "pascal_case": "ScrollPaddingTop"
-    }
-  },
-  {
-    "name": {
-      "original": "page-break-before",
-      "pascal_case": "PageBreakBefore"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-color",
-      "pascal_case": "BorderBlockColor"
-    }
-  },
-  {
-    "name": {
-      "original": "height",
-      "pascal_case": "Height"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-context-properties",
-      "pascal_case": "MozContextProperties"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-border-outset",
-      "pascal_case": "MaskBorderOutset"
-    }
-  },
-  {
-    "name": {
-      "original": "border-left-color",
-      "pascal_case": "BorderLeftColor"
-    }
-  },
-  {
-    "name": {
-      "original": "column-rule-color",
-      "pascal_case": "ColumnRuleColor"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-filter",
-      "pascal_case": "MsFilter"
-    }
-  },
-  {
-    "name": {
-      "original": "backface-visibility",
-      "pascal_case": "BackfaceVisibility"
-    }
-  },
-  {
-    "name": {
-      "original": "border-inline-color",
-      "pascal_case": "BorderInlineColor"
-    }
-  },
-  {
-    "name": {
-      "original": "column-span",
-      "pascal_case": "ColumnSpan"
-    }
-  },
-  {
-    "name": {
-      "original": "flex-shrink",
-      "pascal_case": "FlexShrink"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-column",
-      "pascal_case": "GridColumn"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-mode",
-      "pascal_case": "MaskMode"
-    }
-  },
-  {
-    "name": {
-      "original": "object-fit",
-      "pascal_case": "ObjectFit"
-    }
-  },
-  {
-    "name": {
-      "original": "columns",
-      "pascal_case": "Columns"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-limit",
-      "pascal_case": "MsScrollLimit"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variant",
-      "pascal_case": "FontVariant"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-bottom",
-      "pascal_case": "PaddingBottom"
-    }
-  },
-  {
-    "name": {
-      "original": "perspective",
-      "pascal_case": "Perspective"
-    }
-  },
-  {
-    "name": {
-      "original": "ruby-position",
-      "pascal_case": "RubyPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "justify-items",
-      "pascal_case": "JustifyItems"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-text-stroke",
-      "pascal_case": "WebkitTextStroke"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-type-y",
-      "pascal_case": "ScrollSnapTypeY"
-    }
-  },
-  {
-    "name": {
-      "original": "column-gap",
-      "pascal_case": "ColumnGap"
-    }
-  },
-  {
-    "name": {
-      "original": "outline-width",
-      "pascal_case": "OutlineWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "text-emphasis-color",
-      "pascal_case": "TextEmphasisColor"
-    }
-  },
-  {
-    "name": {
-      "original": "text-emphasis-position",
-      "pascal_case": "TextEmphasisPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scrollbar-highlight-color",
-      "pascal_case": "MsScrollbarHighlightColor"
-    }
-  },
-  {
-    "name": {
-      "original": "text-size-adjust",
-      "pascal_case": "TextSizeAdjust"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-auto-rows",
-      "pascal_case": "GridAutoRows"
-    }
-  },
-  {
-    "name": {
       "original": "-ms-content-zoom-limit-min",
       "pascal_case": "MsContentZoomLimitMin"
-    }
-  },
-  {
-    "name": {
-      "original": "line-clamp",
-      "pascal_case": "LineClamp"
-    }
-  },
-  {
-    "name": {
-      "original": "shape-outside",
-      "pascal_case": "ShapeOutside"
-    }
-  },
-  {
-    "name": {
-      "original": "border-image-repeat",
-      "pascal_case": "BorderImageRepeat"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-content-zoom-snap-points",
-      "pascal_case": "MsContentZoomSnapPoints"
-    }
-  },
-  {
-    "name": {
-      "original": "rotate",
-      "pascal_case": "Rotate"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-border-repeat",
-      "pascal_case": "MaskBorderRepeat"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scrollbar-arrow-color",
-      "pascal_case": "MsScrollbarArrowColor"
-    }
-  },
-  {
-    "name": {
-      "original": "border-right-style",
-      "pascal_case": "BorderRightStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "font",
-      "pascal_case": "Font"
-    }
-  },
-  {
-    "name": {
-      "original": "background-origin",
-      "pascal_case": "BackgroundOrigin"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-overflow-scrolling",
-      "pascal_case": "WebkitOverflowScrolling"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variant-alternates",
-      "pascal_case": "FontVariantAlternates"
-    }
-  },
-  {
-    "name": {
-      "original": "font-weight",
-      "pascal_case": "FontWeight"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-accelerator",
-      "pascal_case": "MsAccelerator"
-    }
-  },
-  {
-    "name": {
-      "original": "inset-block-end",
-      "pascal_case": "InsetBlockEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "min-inline-size",
-      "pascal_case": "MinInlineSize"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-right",
-      "pascal_case": "ScrollPaddingRight"
-    }
-  },
-  {
-    "name": {
-      "original": "bottom",
-      "pascal_case": "Bottom"
-    }
-  },
-  {
-    "name": {
-      "original": "overflow-anchor",
-      "pascal_case": "OverflowAnchor"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-border-left-colors",
-      "pascal_case": "MozBorderLeftColors"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-stack-sizing",
-      "pascal_case": "MozStackSizing"
-    }
-  },
-  {
-    "name": {
-      "original": "border-top-right-radius",
-      "pascal_case": "BorderTopRightRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-block-end",
-      "pascal_case": "ScrollMarginBlockEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-left",
-      "pascal_case": "MarginLeft"
-    }
-  },
-  {
-    "name": {
-      "original": "border-top-left-radius",
-      "pascal_case": "BorderTopLeftRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "orphans",
-      "pascal_case": "Orphans"
-    }
-  },
-  {
-    "name": {
-      "original": "padding-top",
-      "pascal_case": "PaddingTop"
-    }
-  },
-  {
-    "name": {
-      "original": "inline-size",
-      "pascal_case": "InlineSize"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-block",
-      "pascal_case": "MarginBlock"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-snap-type",
-      "pascal_case": "MsScrollSnapType"
-    }
-  },
-  {
-    "name": {
-      "original": "scrollbar-color",
-      "pascal_case": "ScrollbarColor"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-start-color",
-      "pascal_case": "BorderBlockStartColor"
-    }
-  },
-  {
-    "name": {
-      "original": "outline-style",
-      "pascal_case": "OutlineStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-points-y",
-      "pascal_case": "ScrollSnapPointsY"
-    }
-  },
-  {
-    "name": {
-      "original": "animation-play-state",
-      "pascal_case": "AnimationPlayState"
-    }
-  },
-  {
-    "name": {
-      "original": "translate",
-      "pascal_case": "Translate"
-    }
-  },
-  {
-    "name": {
-      "original": "color-adjust",
-      "pascal_case": "ColorAdjust"
-    }
-  },
-  {
-    "name": {
-      "original": "top",
-      "pascal_case": "Top"
-    }
-  },
-  {
-    "name": {
-      "original": "counter-increment",
-      "pascal_case": "CounterIncrement"
-    }
-  },
-  {
-    "name": {
-      "original": "margin-top",
-      "pascal_case": "MarginTop"
-    }
-  },
-  {
-    "name": {
-      "original": "border-image-source",
-      "pascal_case": "BorderImageSource"
-    }
-  },
-  {
-    "name": {
-      "original": "inset-inline-start",
-      "pascal_case": "InsetInlineStart"
-    }
-  },
-  {
-    "name": {
-      "original": "column-rule-width",
-      "pascal_case": "ColumnRuleWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-margin-inline",
-      "pascal_case": "ScrollMarginInline"
-    }
-  },
-  {
-    "name": {
-      "original": "background-clip",
-      "pascal_case": "BackgroundClip"
-    }
-  },
-  {
-    "name": {
-      "original": "backdrop-filter",
-      "pascal_case": "BackdropFilter"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-wrap-through",
-      "pascal_case": "MsWrapThrough"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-position",
-      "pascal_case": "WebkitMaskPosition"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-appearance",
-      "pascal_case": "MozAppearance"
-    }
-  },
-  {
-    "name": {
-      "original": "clip",
-      "pascal_case": "Clip"
-    }
-  },
-  {
-    "name": {
-      "original": "border-left-style",
-      "pascal_case": "BorderLeftStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "background-color",
-      "pascal_case": "BackgroundColor"
-    }
-  },
-  {
-    "name": {
-      "original": "display",
-      "pascal_case": "Display"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-bottom",
-      "pascal_case": "ScrollPaddingBottom"
-    }
-  },
-  {
-    "name": {
-      "original": "border-right",
-      "pascal_case": "BorderRight"
-    }
-  },
-  {
-    "name": {
-      "original": "appearance",
-      "pascal_case": "Appearance"
-    }
-  },
-  {
-    "name": {
-      "original": "grid",
-      "pascal_case": "Grid"
-    }
-  },
-  {
-    "name": {
-      "original": "overscroll-behavior-y",
-      "pascal_case": "OverscrollBehaviorY"
-    }
-  },
-  {
-    "name": {
-      "original": "text-align-last",
-      "pascal_case": "TextAlignLast"
-    }
-  },
-  {
-    "name": {
-      "original": "transform",
-      "pascal_case": "Transform"
-    }
-  },
-  {
-    "name": {
-      "original": "max-inline-size",
-      "pascal_case": "MaxInlineSize"
-    }
-  },
-  {
-    "name": {
-      "original": "animation",
-      "pascal_case": "Animation"
-    }
-  },
-  {
-    "name": {
-      "original": "box-flex",
-      "pascal_case": "BoxFlex"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-scroll-limit-y-min",
-      "pascal_case": "MsScrollLimitYMin"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-high-contrast-adjust",
-      "pascal_case": "MsHighContrastAdjust"
-    }
-  },
-  {
-    "name": {
-      "original": "background",
-      "pascal_case": "Background"
-    }
-  },
-  {
-    "name": {
-      "original": "mask-border",
-      "pascal_case": "MaskBorder"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-padding-inline-end",
-      "pascal_case": "ScrollPaddingInlineEnd"
-    }
-  },
-  {
-    "name": {
-      "original": "text-emphasis-style",
-      "pascal_case": "TextEmphasisStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "will-change",
-      "pascal_case": "WillChange"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-border-before",
-      "pascal_case": "WebkitBorderBefore"
-    }
-  },
-  {
-    "name": {
-      "original": "border-bottom-style",
-      "pascal_case": "BorderBottomStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "font-style",
-      "pascal_case": "FontStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "column-width",
-      "pascal_case": "ColumnWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "box-ordinal-group",
-      "pascal_case": "BoxOrdinalGroup"
-    }
-  },
-  {
-    "name": {
-      "original": "border-collapse",
-      "pascal_case": "BorderCollapse"
-    }
-  },
-  {
-    "name": {
-      "original": "table-layout",
-      "pascal_case": "TableLayout"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-float-edge",
-      "pascal_case": "MozFloatEdge"
-    }
-  },
-  {
-    "name": {
-      "original": "-ms-content-zooming",
-      "pascal_case": "MsContentZooming"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-end-width",
-      "pascal_case": "BorderBlockEndWidth"
-    }
-  },
-  {
-    "name": {
-      "original": "text-justify",
-      "pascal_case": "TextJustify"
-    }
-  },
-  {
-    "name": {
-      "original": "box-flex-group",
-      "pascal_case": "BoxFlexGroup"
-    }
-  },
-  {
-    "name": {
-      "original": "font-kerning",
-      "pascal_case": "FontKerning"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-border-before-color",
-      "pascal_case": "WebkitBorderBeforeColor"
-    }
-  },
-  {
-    "name": {
-      "original": "font-variant-ligatures",
-      "pascal_case": "FontVariantLigatures"
-    }
-  },
-  {
-    "name": {
-      "original": "initial-letter",
-      "pascal_case": "InitialLetter"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-appearance",
-      "pascal_case": "WebkitAppearance"
     }
   },
   {
@@ -2665,8 +187,278 @@
   },
   {
     "name": {
-      "original": "-webkit-tap-highlight-color",
-      "pascal_case": "WebkitTapHighlightColor"
+      "original": "-ms-content-zoom-snap-points",
+      "pascal_case": "MsContentZoomSnapPoints"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-content-zoom-snap-type",
+      "pascal_case": "MsContentZoomSnapType"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-content-zooming",
+      "pascal_case": "MsContentZooming"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-filter",
+      "pascal_case": "MsFilter"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-flow-from",
+      "pascal_case": "MsFlowFrom"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-flow-into",
+      "pascal_case": "MsFlowInto"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-high-contrast-adjust",
+      "pascal_case": "MsHighContrastAdjust"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-hyphenate-limit-chars",
+      "pascal_case": "MsHyphenateLimitChars"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-hyphenate-limit-lines",
+      "pascal_case": "MsHyphenateLimitLines"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-hyphenate-limit-zone",
+      "pascal_case": "MsHyphenateLimitZone"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-ime-align",
+      "pascal_case": "MsImeAlign"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-overflow-style",
+      "pascal_case": "MsOverflowStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-chaining",
+      "pascal_case": "MsScrollChaining"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-limit",
+      "pascal_case": "MsScrollLimit"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-limit-x-max",
+      "pascal_case": "MsScrollLimitXMax"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-limit-x-min",
+      "pascal_case": "MsScrollLimitXMin"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-limit-y-max",
+      "pascal_case": "MsScrollLimitYMax"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-limit-y-min",
+      "pascal_case": "MsScrollLimitYMin"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-rails",
+      "pascal_case": "MsScrollRails"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-snap-points-x",
+      "pascal_case": "MsScrollSnapPointsX"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-snap-points-y",
+      "pascal_case": "MsScrollSnapPointsY"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-snap-type",
+      "pascal_case": "MsScrollSnapType"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-snap-x",
+      "pascal_case": "MsScrollSnapX"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-snap-y",
+      "pascal_case": "MsScrollSnapY"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scroll-translation",
+      "pascal_case": "MsScrollTranslation"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-3dlight-color",
+      "pascal_case": "MsScrollbar3DlightColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-arrow-color",
+      "pascal_case": "MsScrollbarArrowColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-base-color",
+      "pascal_case": "MsScrollbarBaseColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-darkshadow-color",
+      "pascal_case": "MsScrollbarDarkshadowColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-face-color",
+      "pascal_case": "MsScrollbarFaceColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-highlight-color",
+      "pascal_case": "MsScrollbarHighlightColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-shadow-color",
+      "pascal_case": "MsScrollbarShadowColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-scrollbar-track-color",
+      "pascal_case": "MsScrollbarTrackColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-text-autospace",
+      "pascal_case": "MsTextAutospace"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-touch-select",
+      "pascal_case": "MsTouchSelect"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-user-select",
+      "pascal_case": "MsUserSelect"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-wrap-flow",
+      "pascal_case": "MsWrapFlow"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-wrap-margin",
+      "pascal_case": "MsWrapMargin"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-wrap-through",
+      "pascal_case": "MsWrapThrough"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-appearance",
+      "pascal_case": "WebkitAppearance"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-border-before",
+      "pascal_case": "WebkitBorderBefore"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-border-before-color",
+      "pascal_case": "WebkitBorderBeforeColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-border-before-style",
+      "pascal_case": "WebkitBorderBeforeStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-border-before-width",
+      "pascal_case": "WebkitBorderBeforeWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-box-reflect",
+      "pascal_case": "WebkitBoxReflect"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-line-clamp",
+      "pascal_case": "WebkitLineClamp"
     }
   },
   {
@@ -2677,8 +469,1220 @@
   },
   {
     "name": {
+      "original": "-webkit-mask-attachment",
+      "pascal_case": "WebkitMaskAttachment"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-clip",
+      "pascal_case": "WebkitMaskClip"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-composite",
+      "pascal_case": "WebkitMaskComposite"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-image",
+      "pascal_case": "WebkitMaskImage"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-origin",
+      "pascal_case": "WebkitMaskOrigin"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-position",
+      "pascal_case": "WebkitMaskPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-position-x",
+      "pascal_case": "WebkitMaskPositionX"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-position-y",
+      "pascal_case": "WebkitMaskPositionY"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-repeat",
+      "pascal_case": "WebkitMaskRepeat"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-repeat-x",
+      "pascal_case": "WebkitMaskRepeatX"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-repeat-y",
+      "pascal_case": "WebkitMaskRepeatY"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-mask-size",
+      "pascal_case": "WebkitMaskSize"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-overflow-scrolling",
+      "pascal_case": "WebkitOverflowScrolling"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-tap-highlight-color",
+      "pascal_case": "WebkitTapHighlightColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-text-fill-color",
+      "pascal_case": "WebkitTextFillColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-text-stroke",
+      "pascal_case": "WebkitTextStroke"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-text-stroke-color",
+      "pascal_case": "WebkitTextStrokeColor"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-text-stroke-width",
+      "pascal_case": "WebkitTextStrokeWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-touch-callout",
+      "pascal_case": "WebkitTouchCallout"
+    }
+  },
+  {
+    "name": {
+      "original": "-webkit-user-modify",
+      "pascal_case": "WebkitUserModify"
+    }
+  },
+  {
+    "name": {
+      "original": "align-content",
+      "pascal_case": "AlignContent"
+    }
+  },
+  {
+    "name": {
+      "original": "align-items",
+      "pascal_case": "AlignItems"
+    }
+  },
+  {
+    "name": {
+      "original": "align-self",
+      "pascal_case": "AlignSelf"
+    }
+  },
+  {
+    "name": {
+      "original": "all",
+      "pascal_case": "All"
+    }
+  },
+  {
+    "name": {
+      "original": "animation",
+      "pascal_case": "Animation"
+    }
+  },
+  {
+    "name": {
+      "original": "animation-delay",
+      "pascal_case": "AnimationDelay"
+    }
+  },
+  {
+    "name": {
+      "original": "animation-direction",
+      "pascal_case": "AnimationDirection"
+    }
+  },
+  {
+    "name": {
+      "original": "animation-duration",
+      "pascal_case": "AnimationDuration"
+    }
+  },
+  {
+    "name": {
       "original": "animation-fill-mode",
       "pascal_case": "AnimationFillMode"
+    }
+  },
+  {
+    "name": {
+      "original": "animation-iteration-count",
+      "pascal_case": "AnimationIterationCount"
+    }
+  },
+  {
+    "name": {
+      "original": "animation-name",
+      "pascal_case": "AnimationName"
+    }
+  },
+  {
+    "name": {
+      "original": "animation-play-state",
+      "pascal_case": "AnimationPlayState"
+    }
+  },
+  {
+    "name": {
+      "original": "animation-timing-function",
+      "pascal_case": "AnimationTimingFunction"
+    }
+  },
+  {
+    "name": {
+      "original": "appearance",
+      "pascal_case": "Appearance"
+    }
+  },
+  {
+    "name": {
+      "original": "azimuth",
+      "pascal_case": "Azimuth"
+    }
+  },
+  {
+    "name": {
+      "original": "backdrop-filter",
+      "pascal_case": "BackdropFilter"
+    }
+  },
+  {
+    "name": {
+      "original": "backface-visibility",
+      "pascal_case": "BackfaceVisibility"
+    }
+  },
+  {
+    "name": {
+      "original": "background",
+      "pascal_case": "Background"
+    }
+  },
+  {
+    "name": {
+      "original": "background-attachment",
+      "pascal_case": "BackgroundAttachment"
+    }
+  },
+  {
+    "name": {
+      "original": "background-blend-mode",
+      "pascal_case": "BackgroundBlendMode"
+    }
+  },
+  {
+    "name": {
+      "original": "background-clip",
+      "pascal_case": "BackgroundClip"
+    }
+  },
+  {
+    "name": {
+      "original": "background-color",
+      "pascal_case": "BackgroundColor"
+    }
+  },
+  {
+    "name": {
+      "original": "background-image",
+      "pascal_case": "BackgroundImage"
+    }
+  },
+  {
+    "name": {
+      "original": "background-origin",
+      "pascal_case": "BackgroundOrigin"
+    }
+  },
+  {
+    "name": {
+      "original": "background-position",
+      "pascal_case": "BackgroundPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "background-position-x",
+      "pascal_case": "BackgroundPositionX"
+    }
+  },
+  {
+    "name": {
+      "original": "background-position-y",
+      "pascal_case": "BackgroundPositionY"
+    }
+  },
+  {
+    "name": {
+      "original": "background-repeat",
+      "pascal_case": "BackgroundRepeat"
+    }
+  },
+  {
+    "name": {
+      "original": "background-size",
+      "pascal_case": "BackgroundSize"
+    }
+  },
+  {
+    "name": {
+      "original": "block-overflow",
+      "pascal_case": "BlockOverflow"
+    }
+  },
+  {
+    "name": {
+      "original": "block-size",
+      "pascal_case": "BlockSize"
+    }
+  },
+  {
+    "name": {
+      "original": "border",
+      "pascal_case": "Border"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block",
+      "pascal_case": "BorderBlock"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-color",
+      "pascal_case": "BorderBlockColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-end",
+      "pascal_case": "BorderBlockEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-end-color",
+      "pascal_case": "BorderBlockEndColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-end-style",
+      "pascal_case": "BorderBlockEndStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-end-width",
+      "pascal_case": "BorderBlockEndWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-start",
+      "pascal_case": "BorderBlockStart"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-start-color",
+      "pascal_case": "BorderBlockStartColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-start-style",
+      "pascal_case": "BorderBlockStartStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-start-width",
+      "pascal_case": "BorderBlockStartWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-style",
+      "pascal_case": "BorderBlockStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-block-width",
+      "pascal_case": "BorderBlockWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-bottom",
+      "pascal_case": "BorderBottom"
+    }
+  },
+  {
+    "name": {
+      "original": "border-bottom-color",
+      "pascal_case": "BorderBottomColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-bottom-left-radius",
+      "pascal_case": "BorderBottomLeftRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-bottom-right-radius",
+      "pascal_case": "BorderBottomRightRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-bottom-style",
+      "pascal_case": "BorderBottomStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-bottom-width",
+      "pascal_case": "BorderBottomWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-collapse",
+      "pascal_case": "BorderCollapse"
+    }
+  },
+  {
+    "name": {
+      "original": "border-color",
+      "pascal_case": "BorderColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-end-end-radius",
+      "pascal_case": "BorderEndEndRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-end-start-radius",
+      "pascal_case": "BorderEndStartRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-image",
+      "pascal_case": "BorderImage"
+    }
+  },
+  {
+    "name": {
+      "original": "border-image-outset",
+      "pascal_case": "BorderImageOutset"
+    }
+  },
+  {
+    "name": {
+      "original": "border-image-repeat",
+      "pascal_case": "BorderImageRepeat"
+    }
+  },
+  {
+    "name": {
+      "original": "border-image-slice",
+      "pascal_case": "BorderImageSlice"
+    }
+  },
+  {
+    "name": {
+      "original": "border-image-source",
+      "pascal_case": "BorderImageSource"
+    }
+  },
+  {
+    "name": {
+      "original": "border-image-width",
+      "pascal_case": "BorderImageWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline",
+      "pascal_case": "BorderInline"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-color",
+      "pascal_case": "BorderInlineColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-end",
+      "pascal_case": "BorderInlineEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-end-color",
+      "pascal_case": "BorderInlineEndColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-end-style",
+      "pascal_case": "BorderInlineEndStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-end-width",
+      "pascal_case": "BorderInlineEndWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-start",
+      "pascal_case": "BorderInlineStart"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-start-color",
+      "pascal_case": "BorderInlineStartColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-start-style",
+      "pascal_case": "BorderInlineStartStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-start-width",
+      "pascal_case": "BorderInlineStartWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-style",
+      "pascal_case": "BorderInlineStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-inline-width",
+      "pascal_case": "BorderInlineWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-left",
+      "pascal_case": "BorderLeft"
+    }
+  },
+  {
+    "name": {
+      "original": "border-left-color",
+      "pascal_case": "BorderLeftColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-left-style",
+      "pascal_case": "BorderLeftStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-left-width",
+      "pascal_case": "BorderLeftWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-radius",
+      "pascal_case": "BorderRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-right",
+      "pascal_case": "BorderRight"
+    }
+  },
+  {
+    "name": {
+      "original": "border-right-color",
+      "pascal_case": "BorderRightColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-right-style",
+      "pascal_case": "BorderRightStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-right-width",
+      "pascal_case": "BorderRightWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-spacing",
+      "pascal_case": "BorderSpacing"
+    }
+  },
+  {
+    "name": {
+      "original": "border-start-end-radius",
+      "pascal_case": "BorderStartEndRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-start-start-radius",
+      "pascal_case": "BorderStartStartRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-style",
+      "pascal_case": "BorderStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-top",
+      "pascal_case": "BorderTop"
+    }
+  },
+  {
+    "name": {
+      "original": "border-top-color",
+      "pascal_case": "BorderTopColor"
+    }
+  },
+  {
+    "name": {
+      "original": "border-top-left-radius",
+      "pascal_case": "BorderTopLeftRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-top-right-radius",
+      "pascal_case": "BorderTopRightRadius"
+    }
+  },
+  {
+    "name": {
+      "original": "border-top-style",
+      "pascal_case": "BorderTopStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "border-top-width",
+      "pascal_case": "BorderTopWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "border-width",
+      "pascal_case": "BorderWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "bottom",
+      "pascal_case": "Bottom"
+    }
+  },
+  {
+    "name": {
+      "original": "box-align",
+      "pascal_case": "BoxAlign"
+    }
+  },
+  {
+    "name": {
+      "original": "box-decoration-break",
+      "pascal_case": "BoxDecorationBreak"
+    }
+  },
+  {
+    "name": {
+      "original": "box-direction",
+      "pascal_case": "BoxDirection"
+    }
+  },
+  {
+    "name": {
+      "original": "box-flex",
+      "pascal_case": "BoxFlex"
+    }
+  },
+  {
+    "name": {
+      "original": "box-flex-group",
+      "pascal_case": "BoxFlexGroup"
+    }
+  },
+  {
+    "name": {
+      "original": "box-lines",
+      "pascal_case": "BoxLines"
+    }
+  },
+  {
+    "name": {
+      "original": "box-ordinal-group",
+      "pascal_case": "BoxOrdinalGroup"
+    }
+  },
+  {
+    "name": {
+      "original": "box-orient",
+      "pascal_case": "BoxOrient"
+    }
+  },
+  {
+    "name": {
+      "original": "box-pack",
+      "pascal_case": "BoxPack"
+    }
+  },
+  {
+    "name": {
+      "original": "box-shadow",
+      "pascal_case": "BoxShadow"
+    }
+  },
+  {
+    "name": {
+      "original": "box-sizing",
+      "pascal_case": "BoxSizing"
+    }
+  },
+  {
+    "name": {
+      "original": "break-after",
+      "pascal_case": "BreakAfter"
+    }
+  },
+  {
+    "name": {
+      "original": "break-before",
+      "pascal_case": "BreakBefore"
+    }
+  },
+  {
+    "name": {
+      "original": "break-inside",
+      "pascal_case": "BreakInside"
+    }
+  },
+  {
+    "name": {
+      "original": "caption-side",
+      "pascal_case": "CaptionSide"
+    }
+  },
+  {
+    "name": {
+      "original": "caret-color",
+      "pascal_case": "CaretColor"
+    }
+  },
+  {
+    "name": {
+      "original": "clear",
+      "pascal_case": "Clear"
+    }
+  },
+  {
+    "name": {
+      "original": "clip",
+      "pascal_case": "Clip"
+    }
+  },
+  {
+    "name": {
+      "original": "clip-path",
+      "pascal_case": "ClipPath"
+    }
+  },
+  {
+    "name": {
+      "original": "color",
+      "pascal_case": "Color"
+    }
+  },
+  {
+    "name": {
+      "original": "color-adjust",
+      "pascal_case": "ColorAdjust"
+    }
+  },
+  {
+    "name": {
+      "original": "column-count",
+      "pascal_case": "ColumnCount"
+    }
+  },
+  {
+    "name": {
+      "original": "column-fill",
+      "pascal_case": "ColumnFill"
+    }
+  },
+  {
+    "name": {
+      "original": "column-gap",
+      "pascal_case": "ColumnGap"
+    }
+  },
+  {
+    "name": {
+      "original": "column-rule",
+      "pascal_case": "ColumnRule"
+    }
+  },
+  {
+    "name": {
+      "original": "column-rule-color",
+      "pascal_case": "ColumnRuleColor"
+    }
+  },
+  {
+    "name": {
+      "original": "column-rule-style",
+      "pascal_case": "ColumnRuleStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "column-rule-width",
+      "pascal_case": "ColumnRuleWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "column-span",
+      "pascal_case": "ColumnSpan"
+    }
+  },
+  {
+    "name": {
+      "original": "column-width",
+      "pascal_case": "ColumnWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "columns",
+      "pascal_case": "Columns"
+    }
+  },
+  {
+    "name": {
+      "original": "contain",
+      "pascal_case": "Contain"
+    }
+  },
+  {
+    "name": {
+      "original": "content",
+      "pascal_case": "Content"
+    }
+  },
+  {
+    "name": {
+      "original": "counter-increment",
+      "pascal_case": "CounterIncrement"
+    }
+  },
+  {
+    "name": {
+      "original": "counter-reset",
+      "pascal_case": "CounterReset"
+    }
+  },
+  {
+    "name": {
+      "original": "counter-set",
+      "pascal_case": "CounterSet"
+    }
+  },
+  {
+    "name": {
+      "original": "cursor",
+      "pascal_case": "Cursor"
+    }
+  },
+  {
+    "name": {
+      "original": "direction",
+      "pascal_case": "Direction"
+    }
+  },
+  {
+    "name": {
+      "original": "display",
+      "pascal_case": "Display"
+    }
+  },
+  {
+    "name": {
+      "original": "empty-cells",
+      "pascal_case": "EmptyCells"
+    }
+  },
+  {
+    "name": {
+      "original": "filter",
+      "pascal_case": "Filter"
+    }
+  },
+  {
+    "name": {
+      "original": "flex",
+      "pascal_case": "Flex"
+    }
+  },
+  {
+    "name": {
+      "original": "flex-basis",
+      "pascal_case": "FlexBasis"
+    }
+  },
+  {
+    "name": {
+      "original": "flex-direction",
+      "pascal_case": "FlexDirection"
+    }
+  },
+  {
+    "name": {
+      "original": "flex-flow",
+      "pascal_case": "FlexFlow"
+    }
+  },
+  {
+    "name": {
+      "original": "flex-grow",
+      "pascal_case": "FlexGrow"
+    }
+  },
+  {
+    "name": {
+      "original": "flex-shrink",
+      "pascal_case": "FlexShrink"
+    }
+  },
+  {
+    "name": {
+      "original": "flex-wrap",
+      "pascal_case": "FlexWrap"
+    }
+  },
+  {
+    "name": {
+      "original": "float",
+      "pascal_case": "Float"
+    }
+  },
+  {
+    "name": {
+      "original": "font",
+      "pascal_case": "Font"
+    }
+  },
+  {
+    "name": {
+      "original": "font-family",
+      "pascal_case": "FontFamily"
+    }
+  },
+  {
+    "name": {
+      "original": "font-feature-settings",
+      "pascal_case": "FontFeatureSettings"
+    }
+  },
+  {
+    "name": {
+      "original": "font-kerning",
+      "pascal_case": "FontKerning"
+    }
+  },
+  {
+    "name": {
+      "original": "font-language-override",
+      "pascal_case": "FontLanguageOverride"
+    }
+  },
+  {
+    "name": {
+      "original": "font-optical-sizing",
+      "pascal_case": "FontOpticalSizing"
+    }
+  },
+  {
+    "name": {
+      "original": "font-size",
+      "pascal_case": "FontSize"
+    }
+  },
+  {
+    "name": {
+      "original": "font-size-adjust",
+      "pascal_case": "FontSizeAdjust"
+    }
+  },
+  {
+    "name": {
+      "original": "font-stretch",
+      "pascal_case": "FontStretch"
+    }
+  },
+  {
+    "name": {
+      "original": "font-style",
+      "pascal_case": "FontStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "font-synthesis",
+      "pascal_case": "FontSynthesis"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variant",
+      "pascal_case": "FontVariant"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variant-alternates",
+      "pascal_case": "FontVariantAlternates"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variant-caps",
+      "pascal_case": "FontVariantCaps"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variant-east-asian",
+      "pascal_case": "FontVariantEastAsian"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variant-ligatures",
+      "pascal_case": "FontVariantLigatures"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variant-numeric",
+      "pascal_case": "FontVariantNumeric"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variant-position",
+      "pascal_case": "FontVariantPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "font-variation-settings",
+      "pascal_case": "FontVariationSettings"
+    }
+  },
+  {
+    "name": {
+      "original": "font-weight",
+      "pascal_case": "FontWeight"
+    }
+  },
+  {
+    "name": {
+      "original": "gap",
+      "pascal_case": "Gap"
+    }
+  },
+  {
+    "name": {
+      "original": "grid",
+      "pascal_case": "Grid"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-area",
+      "pascal_case": "GridArea"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-auto-columns",
+      "pascal_case": "GridAutoColumns"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-auto-flow",
+      "pascal_case": "GridAutoFlow"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-auto-rows",
+      "pascal_case": "GridAutoRows"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-column",
+      "pascal_case": "GridColumn"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-column-end",
+      "pascal_case": "GridColumnEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-column-gap",
+      "pascal_case": "GridColumnGap"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-column-start",
+      "pascal_case": "GridColumnStart"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-gap",
+      "pascal_case": "GridGap"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-row",
+      "pascal_case": "GridRow"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-row-end",
+      "pascal_case": "GridRowEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-row-gap",
+      "pascal_case": "GridRowGap"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-row-start",
+      "pascal_case": "GridRowStart"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-template",
+      "pascal_case": "GridTemplate"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-template-areas",
+      "pascal_case": "GridTemplateAreas"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-template-columns",
+      "pascal_case": "GridTemplateColumns"
+    }
+  },
+  {
+    "name": {
+      "original": "grid-template-rows",
+      "pascal_case": "GridTemplateRows"
+    }
+  },
+  {
+    "name": {
+      "original": "hanging-punctuation",
+      "pascal_case": "HangingPunctuation"
+    }
+  },
+  {
+    "name": {
+      "original": "height",
+      "pascal_case": "Height"
     }
   },
   {
@@ -2695,86 +1699,14 @@
   },
   {
     "name": {
-      "original": "mask-border-source",
-      "pascal_case": "MaskBorderSource"
+      "original": "image-rendering",
+      "pascal_case": "ImageRendering"
     }
   },
   {
     "name": {
-      "original": "padding-right",
-      "pascal_case": "PaddingRight"
-    }
-  },
-  {
-    "name": {
-      "original": "flex-grow",
-      "pascal_case": "FlexGrow"
-    }
-  },
-  {
-    "name": {
-      "original": "paint-order",
-      "pascal_case": "PaintOrder"
-    }
-  },
-  {
-    "name": {
-      "original": "box-orient",
-      "pascal_case": "BoxOrient"
-    }
-  },
-  {
-    "name": {
-      "original": "-moz-outline-radius",
-      "pascal_case": "MozOutlineRadius"
-    }
-  },
-  {
-    "name": {
-      "original": "border-block-start-style",
-      "pascal_case": "BorderBlockStartStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "empty-cells",
-      "pascal_case": "EmptyCells"
-    }
-  },
-  {
-    "name": {
-      "original": "grid-area",
-      "pascal_case": "GridArea"
-    }
-  },
-  {
-    "name": {
-      "original": "counter-set",
-      "pascal_case": "CounterSet"
-    }
-  },
-  {
-    "name": {
-      "original": "clip-path",
-      "pascal_case": "ClipPath"
-    }
-  },
-  {
-    "name": {
-      "original": "scroll-snap-destination",
-      "pascal_case": "ScrollSnapDestination"
-    }
-  },
-  {
-    "name": {
-      "original": "list-style",
-      "pascal_case": "ListStyle"
-    }
-  },
-  {
-    "name": {
-      "original": "-webkit-mask-repeat",
-      "pascal_case": "WebkitMaskRepeat"
+      "original": "image-resolution",
+      "pascal_case": "ImageResolution"
     }
   },
   {
@@ -2785,140 +1717,212 @@
   },
   {
     "name": {
-      "original": "scroll-padding-block-start",
-      "pascal_case": "ScrollPaddingBlockStart"
+      "original": "initial-letter",
+      "pascal_case": "InitialLetter"
     }
   },
   {
     "name": {
-      "original": "-moz-border-right-colors",
-      "pascal_case": "MozBorderRightColors"
+      "original": "initial-letter-align",
+      "pascal_case": "InitialLetterAlign"
     }
   },
   {
     "name": {
-      "original": "background-blend-mode",
-      "pascal_case": "BackgroundBlendMode"
+      "original": "inline-size",
+      "pascal_case": "InlineSize"
     }
   },
   {
     "name": {
-      "original": "overflow-clip-box",
-      "pascal_case": "OverflowClipBox"
+      "original": "inset",
+      "pascal_case": "Inset"
     }
   },
   {
     "name": {
-      "original": "-webkit-mask-position-y",
-      "pascal_case": "WebkitMaskPositionY"
+      "original": "inset-block",
+      "pascal_case": "InsetBlock"
     }
   },
   {
     "name": {
-      "original": "position",
-      "pascal_case": "Position"
+      "original": "inset-block-end",
+      "pascal_case": "InsetBlockEnd"
     }
   },
   {
     "name": {
-      "original": "-moz-outline-radius-topright",
-      "pascal_case": "MozOutlineRadiusTopright"
+      "original": "inset-block-start",
+      "pascal_case": "InsetBlockStart"
     }
   },
   {
     "name": {
-      "original": "column-rule",
-      "pascal_case": "ColumnRule"
+      "original": "inset-inline",
+      "pascal_case": "InsetInline"
     }
   },
   {
     "name": {
-      "original": "font-language-override",
-      "pascal_case": "FontLanguageOverride"
+      "original": "inset-inline-end",
+      "pascal_case": "InsetInlineEnd"
     }
   },
   {
     "name": {
-      "original": "-webkit-text-fill-color",
-      "pascal_case": "WebkitTextFillColor"
+      "original": "inset-inline-start",
+      "pascal_case": "InsetInlineStart"
     }
   },
   {
     "name": {
-      "original": "animation-name",
-      "pascal_case": "AnimationName"
+      "original": "isolation",
+      "pascal_case": "Isolation"
     }
   },
   {
     "name": {
-      "original": "image-rendering",
-      "pascal_case": "ImageRendering"
+      "original": "justify-content",
+      "pascal_case": "JustifyContent"
     }
   },
   {
     "name": {
-      "original": "scroll-snap-align",
-      "pascal_case": "ScrollSnapAlign"
+      "original": "justify-items",
+      "pascal_case": "JustifyItems"
     }
   },
   {
     "name": {
-      "original": "-webkit-mask-clip",
-      "pascal_case": "WebkitMaskClip"
+      "original": "justify-self",
+      "pascal_case": "JustifySelf"
     }
   },
   {
     "name": {
-      "original": "border-inline-end",
-      "pascal_case": "BorderInlineEnd"
+      "original": "left",
+      "pascal_case": "Left"
     }
   },
   {
     "name": {
-      "original": "-ms-hyphenate-limit-zone",
-      "pascal_case": "MsHyphenateLimitZone"
+      "original": "letter-spacing",
+      "pascal_case": "LetterSpacing"
     }
   },
   {
     "name": {
-      "original": "font-optical-sizing",
-      "pascal_case": "FontOpticalSizing"
+      "original": "line-break",
+      "pascal_case": "LineBreak"
     }
   },
   {
     "name": {
-      "original": "padding-left",
-      "pascal_case": "PaddingLeft"
+      "original": "line-clamp",
+      "pascal_case": "LineClamp"
     }
   },
   {
     "name": {
-      "original": "scroll-padding-block",
-      "pascal_case": "ScrollPaddingBlock"
+      "original": "line-height",
+      "pascal_case": "LineHeight"
     }
   },
   {
     "name": {
-      "original": "-webkit-user-modify",
-      "pascal_case": "WebkitUserModify"
+      "original": "line-height-step",
+      "pascal_case": "LineHeightStep"
     }
   },
   {
     "name": {
-      "original": "mask-clip",
-      "pascal_case": "MaskClip"
+      "original": "list-style",
+      "pascal_case": "ListStyle"
     }
   },
   {
     "name": {
-      "original": "scale",
-      "pascal_case": "Scale"
+      "original": "list-style-image",
+      "pascal_case": "ListStyleImage"
     }
   },
   {
     "name": {
-      "original": "-ms-user-select",
-      "pascal_case": "MsUserSelect"
+      "original": "list-style-position",
+      "pascal_case": "ListStylePosition"
+    }
+  },
+  {
+    "name": {
+      "original": "list-style-type",
+      "pascal_case": "ListStyleType"
+    }
+  },
+  {
+    "name": {
+      "original": "margin",
+      "pascal_case": "Margin"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-block",
+      "pascal_case": "MarginBlock"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-block-end",
+      "pascal_case": "MarginBlockEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-block-start",
+      "pascal_case": "MarginBlockStart"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-bottom",
+      "pascal_case": "MarginBottom"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-inline",
+      "pascal_case": "MarginInline"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-inline-end",
+      "pascal_case": "MarginInlineEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-inline-start",
+      "pascal_case": "MarginInlineStart"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-left",
+      "pascal_case": "MarginLeft"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-right",
+      "pascal_case": "MarginRight"
+    }
+  },
+  {
+    "name": {
+      "original": "margin-top",
+      "pascal_case": "MarginTop"
     }
   },
   {
@@ -2929,8 +1933,836 @@
   },
   {
     "name": {
+      "original": "mask-border",
+      "pascal_case": "MaskBorder"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-border-mode",
+      "pascal_case": "MaskBorderMode"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-border-outset",
+      "pascal_case": "MaskBorderOutset"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-border-repeat",
+      "pascal_case": "MaskBorderRepeat"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-border-slice",
+      "pascal_case": "MaskBorderSlice"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-border-source",
+      "pascal_case": "MaskBorderSource"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-border-width",
+      "pascal_case": "MaskBorderWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-clip",
+      "pascal_case": "MaskClip"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-composite",
+      "pascal_case": "MaskComposite"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-image",
+      "pascal_case": "MaskImage"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-mode",
+      "pascal_case": "MaskMode"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-origin",
+      "pascal_case": "MaskOrigin"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-position",
+      "pascal_case": "MaskPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-repeat",
+      "pascal_case": "MaskRepeat"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-size",
+      "pascal_case": "MaskSize"
+    }
+  },
+  {
+    "name": {
+      "original": "mask-type",
+      "pascal_case": "MaskType"
+    }
+  },
+  {
+    "name": {
+      "original": "max-block-size",
+      "pascal_case": "MaxBlockSize"
+    }
+  },
+  {
+    "name": {
+      "original": "max-height",
+      "pascal_case": "MaxHeight"
+    }
+  },
+  {
+    "name": {
+      "original": "max-inline-size",
+      "pascal_case": "MaxInlineSize"
+    }
+  },
+  {
+    "name": {
+      "original": "max-lines",
+      "pascal_case": "MaxLines"
+    }
+  },
+  {
+    "name": {
+      "original": "max-width",
+      "pascal_case": "MaxWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "min-block-size",
+      "pascal_case": "MinBlockSize"
+    }
+  },
+  {
+    "name": {
+      "original": "min-height",
+      "pascal_case": "MinHeight"
+    }
+  },
+  {
+    "name": {
+      "original": "min-inline-size",
+      "pascal_case": "MinInlineSize"
+    }
+  },
+  {
+    "name": {
+      "original": "min-width",
+      "pascal_case": "MinWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "mix-blend-mode",
+      "pascal_case": "MixBlendMode"
+    }
+  },
+  {
+    "name": {
+      "original": "object-fit",
+      "pascal_case": "ObjectFit"
+    }
+  },
+  {
+    "name": {
+      "original": "object-position",
+      "pascal_case": "ObjectPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "offset",
+      "pascal_case": "Offset"
+    }
+  },
+  {
+    "name": {
+      "original": "offset-anchor",
+      "pascal_case": "OffsetAnchor"
+    }
+  },
+  {
+    "name": {
+      "original": "offset-distance",
+      "pascal_case": "OffsetDistance"
+    }
+  },
+  {
+    "name": {
+      "original": "offset-path",
+      "pascal_case": "OffsetPath"
+    }
+  },
+  {
+    "name": {
+      "original": "offset-position",
+      "pascal_case": "OffsetPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "offset-rotate",
+      "pascal_case": "OffsetRotate"
+    }
+  },
+  {
+    "name": {
+      "original": "opacity",
+      "pascal_case": "Opacity"
+    }
+  },
+  {
+    "name": {
+      "original": "order",
+      "pascal_case": "Order"
+    }
+  },
+  {
+    "name": {
+      "original": "orphans",
+      "pascal_case": "Orphans"
+    }
+  },
+  {
+    "name": {
+      "original": "outline",
+      "pascal_case": "Outline"
+    }
+  },
+  {
+    "name": {
+      "original": "outline-color",
+      "pascal_case": "OutlineColor"
+    }
+  },
+  {
+    "name": {
+      "original": "outline-offset",
+      "pascal_case": "OutlineOffset"
+    }
+  },
+  {
+    "name": {
+      "original": "outline-style",
+      "pascal_case": "OutlineStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "outline-width",
+      "pascal_case": "OutlineWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow",
+      "pascal_case": "Overflow"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-anchor",
+      "pascal_case": "OverflowAnchor"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-block",
+      "pascal_case": "OverflowBlock"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-clip-box",
+      "pascal_case": "OverflowClipBox"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-inline",
+      "pascal_case": "OverflowInline"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-wrap",
+      "pascal_case": "OverflowWrap"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-x",
+      "pascal_case": "OverflowX"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-y",
+      "pascal_case": "OverflowY"
+    }
+  },
+  {
+    "name": {
+      "original": "overscroll-behavior",
+      "pascal_case": "OverscrollBehavior"
+    }
+  },
+  {
+    "name": {
+      "original": "overscroll-behavior-x",
+      "pascal_case": "OverscrollBehaviorX"
+    }
+  },
+  {
+    "name": {
+      "original": "overscroll-behavior-y",
+      "pascal_case": "OverscrollBehaviorY"
+    }
+  },
+  {
+    "name": {
+      "original": "padding",
+      "pascal_case": "Padding"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-block",
+      "pascal_case": "PaddingBlock"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-block-end",
+      "pascal_case": "PaddingBlockEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-block-start",
+      "pascal_case": "PaddingBlockStart"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-bottom",
+      "pascal_case": "PaddingBottom"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-inline",
+      "pascal_case": "PaddingInline"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-inline-end",
+      "pascal_case": "PaddingInlineEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-inline-start",
+      "pascal_case": "PaddingInlineStart"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-left",
+      "pascal_case": "PaddingLeft"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-right",
+      "pascal_case": "PaddingRight"
+    }
+  },
+  {
+    "name": {
+      "original": "padding-top",
+      "pascal_case": "PaddingTop"
+    }
+  },
+  {
+    "name": {
+      "original": "page-break-after",
+      "pascal_case": "PageBreakAfter"
+    }
+  },
+  {
+    "name": {
+      "original": "page-break-before",
+      "pascal_case": "PageBreakBefore"
+    }
+  },
+  {
+    "name": {
+      "original": "page-break-inside",
+      "pascal_case": "PageBreakInside"
+    }
+  },
+  {
+    "name": {
+      "original": "paint-order",
+      "pascal_case": "PaintOrder"
+    }
+  },
+  {
+    "name": {
+      "original": "perspective",
+      "pascal_case": "Perspective"
+    }
+  },
+  {
+    "name": {
+      "original": "perspective-origin",
+      "pascal_case": "PerspectiveOrigin"
+    }
+  },
+  {
+    "name": {
+      "original": "place-content",
+      "pascal_case": "PlaceContent"
+    }
+  },
+  {
+    "name": {
+      "original": "place-items",
+      "pascal_case": "PlaceItems"
+    }
+  },
+  {
+    "name": {
+      "original": "place-self",
+      "pascal_case": "PlaceSelf"
+    }
+  },
+  {
+    "name": {
+      "original": "pointer-events",
+      "pascal_case": "PointerEvents"
+    }
+  },
+  {
+    "name": {
+      "original": "position",
+      "pascal_case": "Position"
+    }
+  },
+  {
+    "name": {
+      "original": "quotes",
+      "pascal_case": "Quotes"
+    }
+  },
+  {
+    "name": {
+      "original": "resize",
+      "pascal_case": "Resize"
+    }
+  },
+  {
+    "name": {
+      "original": "right",
+      "pascal_case": "Right"
+    }
+  },
+  {
+    "name": {
+      "original": "rotate",
+      "pascal_case": "Rotate"
+    }
+  },
+  {
+    "name": {
+      "original": "row-gap",
+      "pascal_case": "RowGap"
+    }
+  },
+  {
+    "name": {
+      "original": "ruby-align",
+      "pascal_case": "RubyAlign"
+    }
+  },
+  {
+    "name": {
+      "original": "ruby-merge",
+      "pascal_case": "RubyMerge"
+    }
+  },
+  {
+    "name": {
+      "original": "ruby-position",
+      "pascal_case": "RubyPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "scale",
+      "pascal_case": "Scale"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-behavior",
+      "pascal_case": "ScrollBehavior"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin",
+      "pascal_case": "ScrollMargin"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-block",
+      "pascal_case": "ScrollMarginBlock"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-block-end",
+      "pascal_case": "ScrollMarginBlockEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-block-start",
+      "pascal_case": "ScrollMarginBlockStart"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-bottom",
+      "pascal_case": "ScrollMarginBottom"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-inline",
+      "pascal_case": "ScrollMarginInline"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-inline-end",
+      "pascal_case": "ScrollMarginInlineEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-inline-start",
+      "pascal_case": "ScrollMarginInlineStart"
+    }
+  },
+  {
+    "name": {
       "original": "scroll-margin-left",
       "pascal_case": "ScrollMarginLeft"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-right",
+      "pascal_case": "ScrollMarginRight"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-margin-top",
+      "pascal_case": "ScrollMarginTop"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding",
+      "pascal_case": "ScrollPadding"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-block",
+      "pascal_case": "ScrollPaddingBlock"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-block-end",
+      "pascal_case": "ScrollPaddingBlockEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-block-start",
+      "pascal_case": "ScrollPaddingBlockStart"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-bottom",
+      "pascal_case": "ScrollPaddingBottom"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-inline",
+      "pascal_case": "ScrollPaddingInline"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-inline-end",
+      "pascal_case": "ScrollPaddingInlineEnd"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-inline-start",
+      "pascal_case": "ScrollPaddingInlineStart"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-left",
+      "pascal_case": "ScrollPaddingLeft"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-right",
+      "pascal_case": "ScrollPaddingRight"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-padding-top",
+      "pascal_case": "ScrollPaddingTop"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-align",
+      "pascal_case": "ScrollSnapAlign"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-coordinate",
+      "pascal_case": "ScrollSnapCoordinate"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-destination",
+      "pascal_case": "ScrollSnapDestination"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-points-x",
+      "pascal_case": "ScrollSnapPointsX"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-points-y",
+      "pascal_case": "ScrollSnapPointsY"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-stop",
+      "pascal_case": "ScrollSnapStop"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-type",
+      "pascal_case": "ScrollSnapType"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-type-x",
+      "pascal_case": "ScrollSnapTypeX"
+    }
+  },
+  {
+    "name": {
+      "original": "scroll-snap-type-y",
+      "pascal_case": "ScrollSnapTypeY"
+    }
+  },
+  {
+    "name": {
+      "original": "scrollbar-color",
+      "pascal_case": "ScrollbarColor"
+    }
+  },
+  {
+    "name": {
+      "original": "scrollbar-width",
+      "pascal_case": "ScrollbarWidth"
+    }
+  },
+  {
+    "name": {
+      "original": "shape-image-threshold",
+      "pascal_case": "ShapeImageThreshold"
+    }
+  },
+  {
+    "name": {
+      "original": "shape-margin",
+      "pascal_case": "ShapeMargin"
+    }
+  },
+  {
+    "name": {
+      "original": "shape-outside",
+      "pascal_case": "ShapeOutside"
+    }
+  },
+  {
+    "name": {
+      "original": "tab-size",
+      "pascal_case": "TabSize"
+    }
+  },
+  {
+    "name": {
+      "original": "table-layout",
+      "pascal_case": "TableLayout"
+    }
+  },
+  {
+    "name": {
+      "original": "text-align",
+      "pascal_case": "TextAlign"
+    }
+  },
+  {
+    "name": {
+      "original": "text-align-last",
+      "pascal_case": "TextAlignLast"
+    }
+  },
+  {
+    "name": {
+      "original": "text-combine-upright",
+      "pascal_case": "TextCombineUpright"
+    }
+  },
+  {
+    "name": {
+      "original": "text-decoration",
+      "pascal_case": "TextDecoration"
+    }
+  },
+  {
+    "name": {
+      "original": "text-decoration-color",
+      "pascal_case": "TextDecorationColor"
+    }
+  },
+  {
+    "name": {
+      "original": "text-decoration-line",
+      "pascal_case": "TextDecorationLine"
+    }
+  },
+  {
+    "name": {
+      "original": "text-decoration-skip",
+      "pascal_case": "TextDecorationSkip"
+    }
+  },
+  {
+    "name": {
+      "original": "text-decoration-skip-ink",
+      "pascal_case": "TextDecorationSkipInk"
+    }
+  },
+  {
+    "name": {
+      "original": "text-decoration-style",
+      "pascal_case": "TextDecorationStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "text-decoration-thickness",
+      "pascal_case": "TextDecorationThickness"
+    }
+  },
+  {
+    "name": {
+      "original": "text-emphasis",
+      "pascal_case": "TextEmphasis"
+    }
+  },
+  {
+    "name": {
+      "original": "text-emphasis-color",
+      "pascal_case": "TextEmphasisColor"
+    }
+  },
+  {
+    "name": {
+      "original": "text-emphasis-position",
+      "pascal_case": "TextEmphasisPosition"
+    }
+  },
+  {
+    "name": {
+      "original": "text-emphasis-style",
+      "pascal_case": "TextEmphasisStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "text-indent",
+      "pascal_case": "TextIndent"
+    }
+  },
+  {
+    "name": {
+      "original": "text-justify",
+      "pascal_case": "TextJustify"
     }
   },
   {
@@ -2941,20 +2773,200 @@
   },
   {
     "name": {
-      "original": "-ms-ime-align",
-      "pascal_case": "MsImeAlign"
+      "original": "text-overflow",
+      "pascal_case": "TextOverflow"
     }
   },
   {
     "name": {
-      "original": "caption-side",
-      "pascal_case": "CaptionSide"
+      "original": "text-rendering",
+      "pascal_case": "TextRendering"
     }
   },
   {
     "name": {
-      "original": "overscroll-behavior",
-      "pascal_case": "OverscrollBehavior"
+      "original": "text-shadow",
+      "pascal_case": "TextShadow"
+    }
+  },
+  {
+    "name": {
+      "original": "text-size-adjust",
+      "pascal_case": "TextSizeAdjust"
+    }
+  },
+  {
+    "name": {
+      "original": "text-transform",
+      "pascal_case": "TextTransform"
+    }
+  },
+  {
+    "name": {
+      "original": "text-underline-offset",
+      "pascal_case": "TextUnderlineOffset"
+    }
+  },
+  {
+    "name": {
+      "original": "text-underline-position",
+      "pascal_case": "TextUnderlinePosition"
+    }
+  },
+  {
+    "name": {
+      "original": "top",
+      "pascal_case": "Top"
+    }
+  },
+  {
+    "name": {
+      "original": "touch-action",
+      "pascal_case": "TouchAction"
+    }
+  },
+  {
+    "name": {
+      "original": "transform",
+      "pascal_case": "Transform"
+    }
+  },
+  {
+    "name": {
+      "original": "transform-box",
+      "pascal_case": "TransformBox"
+    }
+  },
+  {
+    "name": {
+      "original": "transform-origin",
+      "pascal_case": "TransformOrigin"
+    }
+  },
+  {
+    "name": {
+      "original": "transform-style",
+      "pascal_case": "TransformStyle"
+    }
+  },
+  {
+    "name": {
+      "original": "transition",
+      "pascal_case": "Transition"
+    }
+  },
+  {
+    "name": {
+      "original": "transition-delay",
+      "pascal_case": "TransitionDelay"
+    }
+  },
+  {
+    "name": {
+      "original": "transition-duration",
+      "pascal_case": "TransitionDuration"
+    }
+  },
+  {
+    "name": {
+      "original": "transition-property",
+      "pascal_case": "TransitionProperty"
+    }
+  },
+  {
+    "name": {
+      "original": "transition-timing-function",
+      "pascal_case": "TransitionTimingFunction"
+    }
+  },
+  {
+    "name": {
+      "original": "translate",
+      "pascal_case": "Translate"
+    }
+  },
+  {
+    "name": {
+      "original": "unicode-bidi",
+      "pascal_case": "UnicodeBidi"
+    }
+  },
+  {
+    "name": {
+      "original": "user-select",
+      "pascal_case": "UserSelect"
+    }
+  },
+  {
+    "name": {
+      "original": "vertical-align",
+      "pascal_case": "VerticalAlign"
+    }
+  },
+  {
+    "name": {
+      "original": "visibility",
+      "pascal_case": "Visibility"
+    }
+  },
+  {
+    "name": {
+      "original": "white-space",
+      "pascal_case": "WhiteSpace"
+    }
+  },
+  {
+    "name": {
+      "original": "widows",
+      "pascal_case": "Widows"
+    }
+  },
+  {
+    "name": {
+      "original": "width",
+      "pascal_case": "Width"
+    }
+  },
+  {
+    "name": {
+      "original": "will-change",
+      "pascal_case": "WillChange"
+    }
+  },
+  {
+    "name": {
+      "original": "word-break",
+      "pascal_case": "WordBreak"
+    }
+  },
+  {
+    "name": {
+      "original": "word-spacing",
+      "pascal_case": "WordSpacing"
+    }
+  },
+  {
+    "name": {
+      "original": "word-wrap",
+      "pascal_case": "WordWrap"
+    }
+  },
+  {
+    "name": {
+      "original": "writing-mode",
+      "pascal_case": "WritingMode"
+    }
+  },
+  {
+    "name": {
+      "original": "z-index",
+      "pascal_case": "ZIndex"
+    }
+  },
+  {
+    "name": {
+      "original": "zoom",
+      "pascal_case": "Zoom"
     }
   }
 ]
