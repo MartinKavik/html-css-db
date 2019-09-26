@@ -49,7 +49,10 @@ pub fn main() {
     let raw_css_properties = fetch_raw_css_properties();
 
     println!("Remodeling raw CSS properties...");
-    let css_properties = remodel_raw_css_properties(raw_css_properties);
+    let mut css_properties = remodel_raw_css_properties(raw_css_properties);
+
+    println!("Sorting CSS properties...");
+    sort_css_properties(css_properties);
 
     println!("Saving CSS properties...");
     save_css_properties(css_properties);
@@ -76,6 +79,10 @@ fn remodel_raw_css_properties(
             }
         })
         .collect()
+}
+
+fn sort_css_properties(css_properties: &mut Vec<CssProperty>) {
+    css_properties.sort_by(|a, b| a.name.original.cmp(b.name.original));
 }
 
 fn save_css_properties(css_properties: Vec<CssProperty>) {

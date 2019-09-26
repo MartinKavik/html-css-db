@@ -18,6 +18,8 @@ steps:
 
   - script: cargo play generator.rs
     displayName: Play generator.rs
+    env:
+      GITHUB_TOKEN: $(GITHUB_TOKEN)
 
 # Resources
 # - https://readrust.net/devops-and-deployment/
