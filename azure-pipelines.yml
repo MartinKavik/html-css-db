@@ -5,11 +5,11 @@ trigger:
   - generator
 
 schedules:
-  - cron: "0 12 * * 5"
-    displayName: Weekly Friday build
+  - cron: "0 12 * * 6"
+    displayName: Weekly Saturday build
     branches:
       include:
-        - master
+        - generator
     always: true
 
 steps:
