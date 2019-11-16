@@ -673,6 +673,12 @@
   },
   {
     "name": {
+      "original": "aspect-ratio",
+      "pascal_case": "AspectRatio"
+    }
+  },
+  {
+    "name": {
       "original": "azimuth",
       "pascal_case": "Azimuth"
     }
