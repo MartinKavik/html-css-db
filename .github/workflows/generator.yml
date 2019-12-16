@@ -4,8 +4,9 @@ on:
   push:
     branches:
       - generator
+  # it works only on `master` - https://github.community/t5/GitHub-Actions/Scheduled-builds-of-non-default-branch/td-p/32270
   schedule:
-    - cron: '0 12 * * 6'
+    - cron: "0 12 * * 6"
 
 jobs:
   test:
@@ -13,6 +14,8 @@ jobs:
     steps:
       - name: Checkout sources
         uses: actions/checkout@v1
+        with:
+          ref: generator
 
       - name: Install cargo-play
         run: cargo install cargo-play
