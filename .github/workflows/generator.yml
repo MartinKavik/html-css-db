@@ -1,0 +1,26 @@
+name: Generator
+
+on:
+  push:
+    branches:
+      - generator
+  # it works only on `master` - https://github.community/t5/GitHub-Actions/Scheduled-builds-of-non-default-branch/td-p/32270
+  schedule:
+    - cron: "0 12 * * 6"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v1
+        with:
+          ref: generator
+
+      - name: Install cargo-play
+        run: cargo install cargo-play
+
+      - name: Play generator.rs
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: cargo play generator.rs
