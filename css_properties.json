@@ -2245,6 +2245,18 @@
   },
   {
     "name": {
+      "original": "overscroll-behavior-block",
+      "pascal_case": "OverscrollBehaviorBlock"
+    }
+  },
+  {
+    "name": {
+      "original": "overscroll-behavior-inline",
+      "pascal_case": "OverscrollBehaviorInline"
+    }
+  },
+  {
+    "name": {
       "original": "overscroll-behavior-x",
       "pascal_case": "OverscrollBehaviorX"
     }
