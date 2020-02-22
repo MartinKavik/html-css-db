@@ -1933,6 +1933,12 @@
   },
   {
     "name": {
+      "original": "margin-trim",
+      "pascal_case": "MarginTrim"
+    }
+  },
+  {
+    "name": {
       "original": "mask",
       "pascal_case": "Mask"
     }
