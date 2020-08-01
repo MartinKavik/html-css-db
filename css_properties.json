@@ -1495,6 +1495,12 @@
   },
   {
     "name": {
+      "original": "font-smooth",
+      "pascal_case": "FontSmooth"
+    }
+  },
+  {
+    "name": {
       "original": "font-stretch",
       "pascal_case": "FontStretch"
     }
