@@ -223,6 +223,18 @@
   },
   {
     "name": {
+      "original": "-ms-grid-columns",
+      "pascal_case": "MsGridColumns"
+    }
+  },
+  {
+    "name": {
+      "original": "-ms-grid-rows",
+      "pascal_case": "MsGridRows"
+    }
+  },
+  {
+    "name": {
       "original": "-ms-high-contrast-adjust",
       "pascal_case": "MsHighContrastAdjust"
     }
