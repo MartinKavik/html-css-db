@@ -619,6 +619,12 @@
   },
   {
     "name": {
+      "original": "align-tracks",
+      "pascal_case": "AlignTracks"
+    }
+  },
+  {
+    "name": {
       "original": "all",
       "pascal_case": "All"
     }
@@ -1825,6 +1831,12 @@
   },
   {
     "name": {
+      "original": "justify-tracks",
+      "pascal_case": "JustifyTracks"
+    }
+  },
+  {
+    "name": {
       "original": "left",
       "pascal_case": "Left"
     }
@@ -2055,6 +2067,12 @@
     "name": {
       "original": "mask-type",
       "pascal_case": "MaskType"
+    }
+  },
+  {
+    "name": {
+      "original": "masonry-auto-flow",
+      "pascal_case": "MasonryAutoFlow"
     }
   },
   {
@@ -2679,6 +2697,12 @@
     "name": {
       "original": "scrollbar-color",
       "pascal_case": "ScrollbarColor"
+    }
+  },
+  {
+    "name": {
+      "original": "scrollbar-gutter",
+      "pascal_case": "ScrollbarGutter"
     }
   },
   {
