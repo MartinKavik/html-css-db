@@ -1297,6 +1297,12 @@
   },
   {
     "name": {
+      "original": "color-scheme",
+      "pascal_case": "ColorScheme"
+    }
+  },
+  {
+    "name": {
       "original": "column-count",
       "pascal_case": "ColumnCount"
     }
@@ -2271,6 +2277,12 @@
     "name": {
       "original": "overflow-clip-box",
       "pascal_case": "OverflowClipBox"
+    }
+  },
+  {
+    "name": {
+      "original": "overflow-clip-margin",
+      "pascal_case": "OverflowClipMargin"
     }
   },
   {
