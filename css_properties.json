@@ -601,6 +601,12 @@
   },
   {
     "name": {
+      "original": "accent-color",
+      "pascal_case": "AccentColor"
+    }
+  },
+  {
+    "name": {
       "original": "align-content",
       "pascal_case": "AlignContent"
     }
