@@ -1789,6 +1789,12 @@
   },
   {
     "name": {
+      "original": "input-security",
+      "pascal_case": "InputSecurity"
+    }
+  },
+  {
+    "name": {
       "original": "inset",
       "pascal_case": "Inset"
     }
