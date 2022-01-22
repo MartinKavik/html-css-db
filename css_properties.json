@@ -1741,6 +1741,12 @@
   },
   {
     "name": {
+      "original": "hyphenate-character",
+      "pascal_case": "HyphenateCharacter"
+    }
+  },
+  {
+    "name": {
       "original": "hyphens",
       "pascal_case": "Hyphens"
     }
