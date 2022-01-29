@@ -685,6 +685,12 @@
   },
   {
     "name": {
+      "original": "animation-timeline",
+      "pascal_case": "AnimationTimeline"
+    }
+  },
+  {
+    "name": {
       "original": "animation-timing-function",
       "pascal_case": "AnimationTimingFunction"
     }
