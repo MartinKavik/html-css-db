@@ -1303,12 +1303,6 @@
   },
   {
     "name": {
-      "original": "color-adjust",
-      "pascal_case": "ColorAdjust"
-    }
-  },
-  {
-    "name": {
       "original": "color-scheme",
       "pascal_case": "ColorScheme"
     }
@@ -2493,6 +2487,12 @@
     "name": {
       "original": "position",
       "pascal_case": "Position"
+    }
+  },
+  {
+    "name": {
+      "original": "print-color-adjust",
+      "pascal_case": "PrintColorAdjust"
     }
   },
   {
