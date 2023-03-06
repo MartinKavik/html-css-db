@@ -168,7 +168,7 @@ fn push_css_properties(
         reqwest::StatusCode::OK => println!("Pushed."),
         _ => {
             let response_text = response.text();
-            panic!(format!("{:#?}\n Response body: {:#?}", response, response_text))
+            panic!("{}", format!("{:#?}\n Response body: {:#?}", response, response_text))
         }
     }
 }
